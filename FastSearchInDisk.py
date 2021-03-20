@@ -1,7 +1,7 @@
 # Values you can edit here
 
-email = "michelalan585@gmail.com" # Email /!\ Must be an email.
-password = "haze67200" # password of acc
+email = "" # Email /!\ Must be an email.
+password = "" # password of acc
 defaultletter = "S" # A B C D E F G H I J K L M N O P Q R S T U V W Z Y Z
 maxround = 180 # max round allowed until the script stop.
 debug = False # True or False
@@ -214,7 +214,7 @@ def loopwin(i):
 # -------------------------- Script --------------------------
 # ============================================================
 
-print("\n============================================================\n\033[4m" + str(scriptname) + " - V" + str(scriptversion) + "\nBy Zellix#5145 & Lucaas#4656\033[0m\n============================================================\n")
+print("\n============================================================\n\033[4m" + str(scriptname) + " - V" + str(scriptversion) + "\nBy Zellix#3337 & Lucaas#4656\033[0m\n============================================================\n")
 
 
 print("\033[34mInitializing Chrome.\033[0m\n")
